@@ -18,6 +18,6 @@ This is a Repository for Arsh Goyal 6 Companies 30 Days Challenge.
 - [x] K Divisible Elements Subarrays
 - [x] Map of Highest Peak
 - [x] Maximum Sum BST in Binary Tree
-- [x] Number of People Aware of a Secret
-- [x] Run Length Encoding
-- [x] Number of Ways to Reach a Position After Exactly k Steps
+- [x] 
+- [x] 
+- [x] 
